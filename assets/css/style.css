@@ -12,3 +12,11 @@ th, td {
     width: 350px;
     height: 200px;
 }
+
+.imgdesafio1{
+    width: auto;
+    border: none;
+}
+img.clicked {
+    border: 10px solid red;
+}
