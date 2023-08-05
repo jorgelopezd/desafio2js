@@ -20,3 +20,28 @@ th, td {
 img.clicked {
     border: 10px solid red;
 }
+#headar{
+    text-align: center;
+}
+#select-sticker{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+#imgsticker{
+    height: 300px;
+    width: 300px;
+}
+#inputsticker1, #inputsticker2, #inputsticker3{
+    width: 80%;
+    text-align: center;
+}
+#contadorsticker{
+    text-align: center;
+    font-weight: 500;
+}
+
+
+
