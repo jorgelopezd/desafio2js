@@ -1,3 +1,5 @@
+
+//desafio 1 borde
 let bordeimg = false;
 
 //se crea la funcion de toogle 
@@ -13,3 +15,5 @@ function toggleBorder() {
     //evalua esta activado o desactivado el borde de la imagen haciendo clic en ella
     bordeimg = !bordeimg;
 }
+
+
